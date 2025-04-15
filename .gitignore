@@ -1,0 +1,4 @@
+DAVIS-2017-trainval-480p/
+*.pth
+.vscode/
+_pychache_/
